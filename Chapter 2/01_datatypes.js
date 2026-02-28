@@ -85,3 +85,4 @@ console.log(typeof "Hello, World!") // string
 console.log(typeof true) // boolean
 console.log(typeof null) // object (this is a known quirk in JavaScript, null is actually a primitive value, but typeof returns "object")
 console.log(typeof undefined) // undefined because it is a primitive value that represents "undefined"
+
