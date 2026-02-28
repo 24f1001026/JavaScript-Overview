@@ -102,7 +102,8 @@ console.log(booleanSpecedString); // Output: true
 let num1 = 45;
 let stringNum1 = String(num1);
 console.log(typeof stringNum1);
-console.log(stringNum1)
+console.log(stringNum1);  
+
 
 
 
